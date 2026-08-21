@@ -399,8 +399,6 @@ All scanning, vulnerability assessment, exploitation, and penetration-testing ac
 
 # 👤 Author
 
-**Khaoila Benlamtai**
-
 Computer Science Graduate
 Cyberspace Master's Student
 
